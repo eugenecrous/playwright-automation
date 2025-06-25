@@ -21,7 +21,7 @@ AUTOMATION/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/playwright-login-automation.git
+git clone https://github.com/your-username/playwright-automation.git
 cd login-test-suite
 ```
 
